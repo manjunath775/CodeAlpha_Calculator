@@ -1,12 +1,12 @@
-# CodeAlpha_Calculator
-Calculator to perform calculations
 # 🧮 Calculator
 
 A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 
-This project performs basic arithmetic operations and includes keyboard support, button animations, and a clean user interface.
+## 🌐 Live Demo
 
-## 🚀 Features
+🚀 **[View Calculator Live](https://calculator0033.netlify.app/)**
+
+## ✨ Features
 
 * ➕ Addition
 * ➖ Subtraction
@@ -17,7 +17,7 @@ This project performs basic arithmetic operations and includes keyboard support,
 * 🔢 Decimal number support
 * ⌨️ Keyboard support
 * ⚡ Real-time display
-* 🎨 Hover and click animations
+* 🎨 Hover effects and animations
 * 📱 Responsive design
 * ⚠️ Division-by-zero error handling
 
@@ -26,23 +26,16 @@ This project performs basic arithmetic operations and includes keyboard support,
 * HTML5
 * CSS3
 * JavaScript
+* Netlify
 
 ## 📂 Project Structure
 
 ```text
 Calculator/
-│
 ├── index.html
 ├── style.css
 └── script.js
 ```
-
-## ▶️ How to Run
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Start using the calculator.
 
 ## ⌨️ Keyboard Controls
 
@@ -57,24 +50,27 @@ Calculator/
 | `Backspace` | Delete         |
 | `Escape`    | Clear          |
 
-## 📸 Preview
+## 🚀 How to Run Locally
 
-A clean dark-themed calculator interface with colorful operation buttons and a responsive layout.
+1. Clone this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
 
 ## 🎯 Project Objective
 
-The goal of this project is to practice:
+This project was created to practice:
 
 * HTML structure
-* CSS styling and layouts
-* JavaScript functions
+* CSS styling
+* JavaScript logic
 * DOM manipulation
 * Event handling
 * Keyboard events
-* Basic mathematical operations
+* Arithmetic operations
+* Responsive web design
 
 ## 👨‍💻 Author
 
 **Manjunath Reddy**
 
-Built as a practice project using HTML, CSS, and JavaScript.
+Built with ❤️ using HTML, CSS & JavaScript.
