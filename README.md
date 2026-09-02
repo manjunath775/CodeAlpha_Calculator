@@ -1,10 +1,7 @@
 # 🧮 Calculator
 
-A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
+A simple and responsive calculator built using **HTML, CSS, and JavaScript**
 
-## 🌐 Live Demo
-
-🚀 **[View Calculator Live](https://calculator0033.netlify.app/)**
 
 ## ✨ Features
 
